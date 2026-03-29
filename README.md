@@ -146,7 +146,7 @@ Upon completion of this project, you will understand:
 
 ## 🔗 Important Links
 
-- **HackerRank Quiz Form:** [Google Form Link](https://forms.gle/1imxsqB3KxfryFjK8)
+- **Quiz Form:** [Google Form Link](https://forms.gle/1imxsqB3KxfryFjK8)
 - **Cybercrime Reporting Portal:** https://cybercrime.gov.in
 - **Cybercrime Helpline:** 1930
 
