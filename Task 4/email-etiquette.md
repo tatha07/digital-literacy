@@ -26,8 +26,8 @@ I would appreciate the opportunity to contribute and learn as part of your team.
 Thank you for your time and consideration.
 
 Sincerely,
-Harsh
-B.Tech ECE, VIT Bhopal
+Tathagato
+B.Tech CSE(AI & ML), VIT Bhopal
 
 
 PART-B
