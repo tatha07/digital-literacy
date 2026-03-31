@@ -10,14 +10,14 @@ I sincerely apologize for the inconvenience and would be grateful if you could g
 Thank you for your understanding and consideration.
 
 Sincerely,
-Harsh
-B.Tech ECE, VIT Bhopal
+Tathagato Chatterjee
+B.Tech CSE(AI & ML), VIT Bhopal
 
 Dear Sir/Madam,
 
 I hope this message finds you well.
 
-My name is Harsh, and I am currently a B.Tech ECE student at VIT Bhopal University. I am writing to express my interest in applying for a summer internship at your organization.
+My name is Tathagato, and I am currently a B.Tech ECE student at VIT Bhopal University. I am writing to express my interest in applying for a summer internship at your organization.
 
 I am currently developing my skills in programming and problem-solving and am eager to gain practical experience in a professional environment. I believe that an internship at your company would provide valuable exposure and help me enhance my technical and professional skills.
 
@@ -26,7 +26,7 @@ I would appreciate the opportunity to contribute and learn as part of your team.
 Thank you for your time and consideration.
 
 Sincerely,
-Tathagato
+Tathagato Chatterjee
 B.Tech CSE(AI & ML), VIT Bhopal
 
 
